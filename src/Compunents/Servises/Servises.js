@@ -38,7 +38,7 @@ const Servises = () => {
 
             <div className="cart-container">
                 <Cart
-                cart={cart}
+                    cart={cart}
                 ></Cart>
             </div>
 
