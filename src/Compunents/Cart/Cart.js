@@ -4,7 +4,9 @@ import { ToastContainer, toast } from 'react-toastify';
   import 'react-toastify/dist/ReactToastify.css';
 const Cart = ({ cart }) => {
     let total = 0;
+
     const notify = () => toast('Congratulation You Complete All Task');
+
     for (const time of cart) {
         total=total+time.time
         

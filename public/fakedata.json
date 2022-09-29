@@ -5,7 +5,7 @@
       "time": 30,
       "picture": "https://images.unsplash.com/photo-1526506118085-60ce8714f8c5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8d29ya291dHxlbnwwfHwwfHw%3D&w=1000&q=80",
       "age": 34,
-      "name": "Callahan Bradford"
+      "name": "Push-Up"
     },
     {
       "id": "63351a731db883b6bb2412c9",
@@ -13,7 +13,7 @@
       "time": 35,
       "picture": "https://barbend.com/wp-content/uploads/2021/11/BarBend-Article-Image-760-x-427-59.jpg",
       "age": 29,
-      "name": "Quinn Duke"
+      "name": "Muscle Build"
     },
     {
       "id": "63351a73c47f8f8a178e6233",
@@ -21,7 +21,7 @@
       "time": 30,
       "picture": "https://www.bodybuilding.com/images/2019/july/how-frequently-and-how-long-should-you-train-1b-700xh.jpg",
       "age": 20,
-      "name": "Krystal Shepherd"
+      "name": "Dumble"
     },
     {
       "id": "63351a73ff0bf5f10cbd8e38",
@@ -29,7 +29,7 @@
       "time": 32,
       "picture": "https://www.muscleandfitness.com/wp-content/uploads/2019/03/1109-bent-over-row1.jpg?w=1109&quality=86&strip=all",
       "age": 25,
-      "name": "Britney Carroll"
+      "name": "Heavy Weight"
     },
     {
       "id": "63351a73b5bb5b7aa26d53f9",
@@ -37,7 +37,7 @@
       "time": 40,
       "picture": "https://www.muscleandfitness.com/wp-content/uploads/2019/10/1109-Bicep-Curl-Muscle-Mass-shutterstock_396854434.jpg?quality=86&strip=all",
       "age": 35,
-      "name": "Adele Hyde"
+      "name": "Single Dumble"
     },
     {
       "id": "63351a734af6c7841d4ea691",
@@ -45,7 +45,7 @@
       "time": 30,
       "picture": "https://c4.wallpaperflare.com/wallpaper/202/496/1002/body-building-bodybuilding-fitness-lifting-wallpaper-preview.jpg",
       "age": 35,
-      "name": "Ellis Huber"
+      "name": "Chain"
     },
     {
       "id": "63351a7349b76e7376530432",
@@ -61,6 +61,6 @@
       "time": 30,
       "picture": "https://image.shutterstock.com/image-photo/bodybuilder-flipping-tire-gym-260nw-405323590.jpg",
       "age": 27,
-      "name": "Shari Stevenson"
+      "name": "Tier Pulling"
     }
   ]
