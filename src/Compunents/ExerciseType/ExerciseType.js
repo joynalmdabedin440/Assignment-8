@@ -12,7 +12,7 @@ const ExerciseType = (props) => {
                     <div class="card-body">
                         <h4 class="card-title">{name}</h4>
                         <h6>For Age: {age}</h6>
-                        <h6>Time Required: {time }</h6>
+                        <h6>Time Required: {time }s</h6>
                         
                     </div>
                     <div>
