@@ -6,7 +6,7 @@ import Servises from './Compunents/Servises/Servises';
 
 function App() {
   return (
-    <div>
+    <div className='body'>
       <Header></Header>
       <Servises></Servises>
     </div>
